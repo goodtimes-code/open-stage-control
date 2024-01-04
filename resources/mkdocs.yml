@@ -61,6 +61,7 @@ nav:
             - docs/customization/css-tips.md
         - Client options: docs/client-options.md
         - Remote control: docs/remote-control.md
+        - Examples: docs/examples.md
         - Credits: docs/credits.md
         - Changelog: docs/changelog.md
 
